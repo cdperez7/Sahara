@@ -12,6 +12,8 @@ Users can use the main search bar to find any product that is pulled based on th
 
 We aimed for a clean, simple design, with each product located in their own div. Based on our company name, we went with a light yellow/desert style. The following image shows what happens when a user searched "cat".
 
+![s3](https://i.imgur.com/HeZB5Sr.png)
+
 
 
 
