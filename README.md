@@ -27,7 +27,9 @@ You can see how it is then displayed as a new product on our website. After addi
 ![s7](https://i.imgur.com/v56gKtn.png)
 
 
-After this, I went and purchased two items - one rubber ducky and The Lord of the Rings - Return of the King. You can see how these are displayed 
+After this, I went and purchased two items, one rubber duck and The Lord of the Rings - Return of the King. You can see how these are displayed in my purchase history. Also note that the quantity of Rubber Duck's changed from 50 to 49 after I purchased one.
+
+
 
 
 
