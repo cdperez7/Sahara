@@ -20,11 +20,14 @@ The following images are just to give a viewer a sense of how everything updates
 
 ![s5](https://i.imgur.com/KWwZdBd.png)
 
+You can see how it is then displayed as a new product on our website. After adding, it is displayed in my accounts "items for sale" page. 
+
+![s6](https://i.imgur.com/Ov8k7q0.png)
+
+![s7](https://i.imgur.com/v56gKtn.png)
 
 
-
-
-It is then displayed in my accounts "items for sale" page. After this, I went and purchased two items - one rubber ducky and The Lord of the Rings - Return of the King. You can see how these are displayed 
+After this, I went and purchased two items - one rubber ducky and The Lord of the Rings - Return of the King. You can see how these are displayed 
 
 
 
