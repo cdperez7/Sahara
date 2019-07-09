@@ -2,6 +2,8 @@
 
 ## Sahara
 
+Heroku link for Sahara: https://sahara-marketplace.herokuapp.com/
+
 This was the second group project as part of my Northwestern Coding Bootcamp course. Sahara is an online store and marketplace for users to buy and sell products. Users can create an account, and either put their own products up for sale or purchase products entered by other users. All information is stored in a MySQL database and updated automatically as the sellers/buyers use the site (after items are bought, quantity goes down, new products to be sold are added to database, etc.). Users can also update their own items (price, quantity, etc.) as well as delete their postings. Both a history of bought and sold items is also stored for the buyers/sellers to view.
 
 Users can use the main search bar to find any product that is pulled based on their search term. They can also view all items in a certain category if they are unsure what they want to buy. Login account information is stored using express-session package. We created our own Sahara specific ORM for this website instead of using Sequelize.
