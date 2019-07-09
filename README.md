@@ -29,7 +29,12 @@ You can see how it is then displayed as a new product on our website. After addi
 
 After this, I went and purchased two items, one rubber duck and The Lord of the Rings - Return of the King. You can see how these are displayed in my purchase history. Also note that the quantity of Rubber Duck's changed from 50 to 49 after I purchased one.
 
+![s8](https://i.imgur.com/8ui7JaM.png)
 
+![s9](https://i.imgur.com/TOZKjR9.png)
+
+
+Hopefully these images and descriptions give you a good idea of how the site works and looks. Of course feel free to play with it yourself via the above Heroku deployed link.
 
 
 
