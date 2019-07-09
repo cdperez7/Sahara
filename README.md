@@ -6,6 +6,14 @@ This was the second group project as part of my Northwestern Coding Bootcamp cou
 
 Users can use the main search bar to find any product that is pulled based on their search term. They can also view all items in a certain category if they are unsure what they want to buy. Login account information is stored using express-session package. 
 
+## Front End
+
+![s2](https://i.imgur.com/Ae8UdGO.png)
+
+We aimed for a clean, simple design, with each product located in their own div. Based on our company name, we went with a light yellow/desert style. The following image shows what happens when a user searched "cat".
+
+
+
 
 
 
