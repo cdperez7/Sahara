@@ -37,17 +37,15 @@ After this, I went and purchased two items, one rubber duck and The Lord of the 
 Hopefully these images and descriptions give you a good idea of how the site works and looks. Of course feel free to play with it yourself via the above Heroku deployed link.
 
 
-
-
-
-
-
-
-
-
-
-
-
+## Technologies Used
+* HTML
+* CSS
+* Express
+* Handlebars
+* MySQL
+* Node.js
+* Javascript
+* jQuery
 
 
 
