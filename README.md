@@ -14,6 +14,15 @@ We aimed for a clean, simple design, with each product located in their own div.
 
 ![s3](https://i.imgur.com/HeZB5Sr.png)
 
+The following images are just to give a viewer a sense of how everything updates on our website. After creating an account, I added a new item (rubber duck) for sale and entered in the price/quantity/etc. 
+
+![s4](https://i.imgur.com/r37PDmB.png)
+
+
+
+
+
+It is then displayed in my accounts "items for sale" page. After this, I went and purchased two items - one rubber ducky and The Lord of the Rings - Return of the King. You can see how these are displayed 
 
 
 
